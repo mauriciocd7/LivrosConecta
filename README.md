@@ -1,8 +1,7 @@
-<<<<<<< HEAD
-<h1>Projeto de simulação de anúncios de livros focado em aprendizagem de crud e mvc em php.</h1>
-=======
+
+<h3>Projeto de simulação de anúncios de livros focado em aprendizagem de crud e mvc em php.</h3>
+
 Projeto de simulação de anúncios de livros focado em aprendizagem de crud e mvc em php.
->>>>>>> d58ae2ebf8bb156d574c4cfd813f8540827183fc
 
 Tecnologias Utilizadas:
 -Php
@@ -22,4 +21,4 @@ Executar no browser localhost/inserir o caminho do projeto aqui. EXEMPLO: http:/
 
 
 
-Desenvolvedor: Maurício Dias 
+Dev: Maurício Dias 
