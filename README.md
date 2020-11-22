@@ -17,7 +17,7 @@
 
 <h4>Método utilizado para visualização/utilização do projeto:</h4>
 
-1. Instalar de XAMPP. [apachefriends.org/pt_br/index.html] 
+1. Instalar de XAMPP. Disponível em : http://apachefriends.org/pt_br/index.html 
 
 2. Startar serviços Apache e MySql no XAMPP.
 
