@@ -1,5 +1,4 @@
-Sobre:
-Projeto de simulação de anúncios de livros focado em aprendizagem de crud e mvc em php.
+<h1>Projeto de simulação de anúncios de livros focado em aprendizagem de crud e mvc em php.</h1>
 
 Tecnologias Utilizadas:
 -Php
