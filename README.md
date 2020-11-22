@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <h1>Projeto de simulação de anúncios de livros focado em aprendizagem de crud e mvc em php.</h1>
+=======
+Projeto de simulação de anúncios de livros focado em aprendizagem de crud e mvc em php.
+>>>>>>> d58ae2ebf8bb156d574c4cfd813f8540827183fc
 
 Tecnologias Utilizadas:
 -Php
