@@ -1,5 +1,5 @@
 
-# <h3 align = "center">Projeto de simulação de anúncios de livros focado em aprendizagem de crud e mvc em php.</h3>
+# <h3 align = "center">Projeto de simulação de anúncios de livros focado em aprendizagem de CRUD, MVC em PHP.</h3>
 
 <h4 align="left">Tecnologias Utilizadas:<h4>
 
